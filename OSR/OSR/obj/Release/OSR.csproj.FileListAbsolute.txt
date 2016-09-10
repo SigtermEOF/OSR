@@ -1,0 +1,71 @@
+C:\Users\JLett\documents\visual studio 2012\Projects\OSR\OSR\obj\Release\OSR.Properties.Resources.resources
+C:\Users\JLett\documents\visual studio 2012\Projects\OSR\OSR\obj\Release\OSR.csproj.GenerateResource.Cache
+C:\Users\JLett\documents\visual studio 2012\Projects\OSR\OSR\bin\Release\OSR.exe.config
+C:\Users\JLett\documents\visual studio 2012\Projects\OSR\OSR\bin\Release\OSR.exe
+C:\Users\JLett\documents\visual studio 2012\Projects\OSR\OSR\bin\Release\OSR.pdb
+C:\Users\JLett\documents\visual studio 2012\Projects\OSR\OSR\obj\Release\OSR.exe
+C:\Users\JLett\documents\visual studio 2012\Projects\OSR\OSR\obj\Release\OSR.pdb
+C:\Users\JLett\documents\visual studio 2012\Projects\OSR\OSR\obj\Release\OSR.ContractorMaintenance.resources
+C:\Users\JLett\documents\visual studio 2012\Projects\OSR\OSR\obj\Release\OSR.ContractorDatabase.resources
+C:\Users\JLett\Documents\Visual Studio 2012\Projects\OSR\OSR\obj\Release\OSR.ContractorQueueDetails.resources
+C:\Users\JLett\Documents\Visual Studio 2012\Projects\OSR\OSR\obj\Release\OSR.ContractorQueueing.resources
+C:\Users\JLett\Documents\Visual Studio 2012\Projects\OSR\OSR\obj\Release\OSR.OrderSending.resources
+Q:\OSR\OSR\bin\Release\OSR.exe.config
+Q:\OSR\OSR\bin\Release\OSR.exe
+Q:\OSR\OSR\bin\Release\OSR.pdb
+Q:\OSR\OSR\obj\Release\OSR.ContractorMaintenance.resources
+Q:\OSR\OSR\obj\Release\OSR.ContractorQueueDetails.resources
+Q:\OSR\OSR\obj\Release\OSR.ContractorQueueing.resources
+Q:\OSR\OSR\obj\Release\OSR.OrderSending.resources
+Q:\OSR\OSR\obj\Release\OSR.Properties.Resources.resources
+Q:\OSR\OSR\obj\Release\OSR.ContractorDatabase.resources
+Q:\OSR\OSR\obj\Release\OSR.csproj.GenerateResource.Cache
+Q:\OSR\OSR\obj\Release\OSR.exe
+Q:\OSR\OSR\obj\Release\OSR.pdb
+Q:\OSR\OSR\obj\Release\OSR.RetouchCodeMaintenance.resources
+Q:\OSR\OSR\obj\Release\OSR.EditRetouchCodes.resources
+Q:\OSR\OSR\obj\Release\OSR.csprojResolveAssemblyReference.cache
+Y:\OSR\OSR\bin\Release\OSR.exe.config
+Y:\OSR\OSR\bin\Release\OSR.exe
+Y:\OSR\OSR\bin\Release\OSR.pdb
+Y:\OSR\OSR\obj\Release\OSR.ContractorMaintenance.resources
+Y:\OSR\OSR\obj\Release\OSR.ContractorQueueDetails.resources
+Y:\OSR\OSR\obj\Release\OSR.ContractorQueueing.resources
+Y:\OSR\OSR\obj\Release\OSR.EditRetouchCodes.resources
+Y:\OSR\OSR\obj\Release\OSR.OrderSending.resources
+Y:\OSR\OSR\obj\Release\OSR.Properties.Resources.resources
+Y:\OSR\OSR\obj\Release\OSR.ContractorDatabase.resources
+Y:\OSR\OSR\obj\Release\OSR.RetouchCodeMaintenance.resources
+Y:\OSR\OSR\obj\Release\OSR.csproj.GenerateResource.Cache
+Y:\OSR\OSR\obj\Release\OSR.exe
+Y:\OSR\OSR\obj\Release\OSR.pdb
+R:\OSR\OSR\bin\Release\OSR.exe.config
+R:\OSR\OSR\bin\Release\OSR.exe
+R:\OSR\OSR\bin\Release\OSR.pdb
+R:\OSR\OSR\obj\Release\OSR.ContractorMaintenance.resources
+R:\OSR\OSR\obj\Release\OSR.ContractorQueueDetails.resources
+R:\OSR\OSR\obj\Release\OSR.ContractorQueueing.resources
+R:\OSR\OSR\obj\Release\OSR.EditRetouchCodes.resources
+R:\OSR\OSR\obj\Release\OSR.OrderSending.resources
+R:\OSR\OSR\obj\Release\OSR.Properties.Resources.resources
+R:\OSR\OSR\obj\Release\OSR.ContractorDatabase.resources
+R:\OSR\OSR\obj\Release\OSR.RetouchCodeMaintenance.resources
+R:\OSR\OSR\obj\Release\OSR.csproj.GenerateResource.Cache
+R:\OSR\OSR\obj\Release\OSR.exe
+R:\OSR\OSR\obj\Release\OSR.pdb
+R:\OSR\OSR\obj\Release\OSR.HeadCount.resources
+R:\jl projects\OSR\OSR\bin\Release\OSR.exe.config
+R:\jl projects\OSR\OSR\bin\Release\OSR.exe
+R:\jl projects\OSR\OSR\bin\Release\OSR.pdb
+R:\jl projects\OSR\OSR\obj\Release\OSR.ContractorMaintenance.resources
+R:\jl projects\OSR\OSR\obj\Release\OSR.ContractorQueueDetails.resources
+R:\jl projects\OSR\OSR\obj\Release\OSR.ContractorQueueing.resources
+R:\jl projects\OSR\OSR\obj\Release\OSR.EditRetouchCodes.resources
+R:\jl projects\OSR\OSR\obj\Release\OSR.HeadCount.resources
+R:\jl projects\OSR\OSR\obj\Release\OSR.OrderSending.resources
+R:\jl projects\OSR\OSR\obj\Release\OSR.Properties.Resources.resources
+R:\jl projects\OSR\OSR\obj\Release\OSR.ContractorDatabase.resources
+R:\jl projects\OSR\OSR\obj\Release\OSR.RetouchCodeMaintenance.resources
+R:\jl projects\OSR\OSR\obj\Release\OSR.csproj.GenerateResource.Cache
+R:\jl projects\OSR\OSR\obj\Release\OSR.exe
+R:\jl projects\OSR\OSR\obj\Release\OSR.pdb

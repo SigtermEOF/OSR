@@ -1,0 +1,2 @@
+Version - Date - Changes
+v2.0 - 1-7-16 - Major overhaul of deployment code to current style, also facilitated the ability to queue products (Painters).
